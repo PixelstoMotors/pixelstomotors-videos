@@ -1,0 +1,83 @@
+{
+  "channel_url": "https://www.youtube.com/@PixelstoMotors",
+  "videos": [
+    {
+      "id": "drHOxzvrcn8",
+      "url": "https://www.youtube.com/watch?v=drHOxzvrcn8",
+      "thumb": "https://i.ytimg.com/vi/drHOxzvrcn8/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/drHOxzvrcn8/hqdefault.jpg",
+      "title": "AIエージェントにロボットのコードを書かせたら、原因を7回取り違えた",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/15",
+      "published": "2026-10-15T09:30:26+00:00",
+      "duration": "13:36",
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "48XTmtYkNRg",
+      "url": "https://www.youtube.com/watch?v=48XTmtYkNRg",
+      "thumb": "https://i.ytimg.com/vi/48XTmtYkNRg/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/48XTmtYkNRg/hqdefault.jpg",
+      "title": "ジャングリア沖縄の赤字89億円、AIとロボットで埋められるか勝手に試算してみた",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/14",
+      "published": "2026-10-14T10:00:23+00:00",
+      "duration": "10:28",
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "wFg77gRg8RU",
+      "url": "https://www.youtube.com/watch?v=wFg77gRg8RU",
+      "thumb": "https://i.ytimg.com/vi/wFg77gRg8RU/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/wFg77gRg8RU/hqdefault.jpg",
+      "title": "フィジカルAIのお金はどこへ流れているか｜日本・米国・中国のスタートアップ投資",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/14",
+      "published": "2026-10-13T23:45:17+00:00",
+      "duration": "14:17",
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "3lwqALyXiY8",
+      "url": "https://www.youtube.com/watch?v=3lwqALyXiY8",
+      "thumb": "https://i.ytimg.com/vi/3lwqALyXiY8/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/3lwqALyXiY8/hqdefault.jpg",
+      "title": "自動運転は「暴走」するのか ― ロボタクシーのリコールの届け出に、ハッキングの記載はなかった",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/13",
+      "published": "2026-10-13T10:30:23+00:00",
+      "duration": "14:43",
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "wGlD_LJrlPo",
+      "url": "https://www.youtube.com/watch?v=wGlD_LJrlPo",
+      "thumb": "https://i.ytimg.com/vi/wGlD_LJrlPo/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/wGlD_LJrlPo/hqdefault.jpg",
+      "title": "人型ロボットの出荷は4倍。ロボットにも「ChatGPTの瞬間」は来たのか",
+      "tag": "フィジカルAIの現在地",
+      "date": "2026/10/12",
+      "published": "2026-10-12T07:37:22+00:00",
+      "duration": "12:30",
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "iaJLQYEg_vE",
+      "url": "https://www.youtube.com/watch?v=iaJLQYEg_vE",
+      "thumb": "https://i.ytimg.com/vi/iaJLQYEg_vE/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/iaJLQYEg_vE/hqdefault.jpg",
+      "title": "R2R2Rプロジェクト - mechArm 270Pi 開封の儀",
+      "tag": "フィジカルAI解説",
+      "date": "2026/03/24",
+      "published": "2026-03-24T11:34:32+00:00",
+      "duration": "2:54",
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    }
+  ]
+}

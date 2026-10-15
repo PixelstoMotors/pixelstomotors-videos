@@ -1,0 +1,37 @@
+# YouTube の新着から site/youtube/videos.json を作り直す（サイトの「Video | 解説動画」スライダー用）
+# 6 時間ごとと、Actions の画面から手動で実行できる。中身が変わったときだけ commit する。
+name: youtube-videos
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-videos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: videos.json を作り直す
+        run: python3 site/youtube/build_videos_json.py
+      - name: 変わっていれば commit
+        run: |
+          if git diff --quiet -- site/youtube/videos.json; then
+            echo "変更なし"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add site/youtube/videos.json
+          git commit -m "videos.json を更新（YouTube の新着）"
+          git push
