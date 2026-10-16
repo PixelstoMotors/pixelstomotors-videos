@@ -2,6 +2,45 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "mEOQJbxiP4w",
+      "url": "https://www.youtube.com/watch?v=mEOQJbxiP4w",
+      "thumb": "https://i.ytimg.com/vi/mEOQJbxiP4w/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/mEOQJbxiP4w/hqdefault.jpg",
+      "title": "セキュリティ人材の不足は、AIとロボットで埋まるのか",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/16",
+      "published": "2026-10-16T09:30:35+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "MZzPvjXt62s",
+      "url": "https://www.youtube.com/watch?v=MZzPvjXt62s",
+      "thumb": "https://i.ytimg.com/vi/MZzPvjXt62s/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/MZzPvjXt62s/hqdefault.jpg",
+      "title": "冷凍庫が50度に。スーパーを襲ったサイバー攻撃から、機械の守り方を考える",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/16",
+      "published": "2026-10-16T03:00:31+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "WXujjOEwUG8",
+      "url": "https://www.youtube.com/watch?v=WXujjOEwUG8",
+      "thumb": "https://i.ytimg.com/vi/WXujjOEwUG8/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/WXujjOEwUG8/hqdefault.jpg",
+      "title": "日経平均3318円安｜AIへの失望は、ロボットにも届くのか",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/16",
+      "published": "2026-10-15T22:30:38+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "drHOxzvrcn8",
       "url": "https://www.youtube.com/watch?v=drHOxzvrcn8",
       "thumb": "https://i.ytimg.com/vi/drHOxzvrcn8/maxresdefault.jpg",
