@@ -2,6 +2,19 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "ZS9sN7F6a7w",
+      "url": "https://www.youtube.com/watch?v=ZS9sN7F6a7w",
+      "thumb": "https://i.ytimg.com/vi/ZS9sN7F6a7w/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/ZS9sN7F6a7w/hqdefault.jpg",
+      "title": "人型ロボットの乗っ取り、もう起きている？｜実験と本物の被害を分けて見る",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/18",
+      "published": "2026-10-18T09:30:02+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "9l9lMPmMlLI",
       "url": "https://www.youtube.com/watch?v=9l9lMPmMlLI",
       "thumb": "https://i.ytimg.com/vi/9l9lMPmMlLI/maxresdefault.jpg",
@@ -115,19 +128,6 @@
       "date": "2026/10/14",
       "published": "2026-10-13T23:45:17+00:00",
       "duration": "14:17",
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "3lwqALyXiY8",
-      "url": "https://www.youtube.com/watch?v=3lwqALyXiY8",
-      "thumb": "https://i.ytimg.com/vi/3lwqALyXiY8/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/3lwqALyXiY8/hqdefault.jpg",
-      "title": "自動運転は「暴走」するのか ― ロボタクシーのリコールの届け出に、ハッキングの記載はなかった",
-      "tag": "フィジカルAI解説",
-      "date": "2026/10/13",
-      "published": "2026-10-13T10:30:23+00:00",
-      "duration": "14:43",
       "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
       "is_short": false
     }
