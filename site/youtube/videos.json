@@ -2,6 +2,19 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "Tt_uWzJGzlw",
+      "url": "https://www.youtube.com/watch?v=Tt_uWzJGzlw",
+      "thumb": "https://i.ytimg.com/vi/Tt_uWzJGzlw/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/Tt_uWzJGzlw/hqdefault.jpg",
+      "title": "「日本でフィジカルAIが本格普及しない本当の理由」は言い切れるのか",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/19",
+      "published": "2026-10-19T09:30:30+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "ZS9sN7F6a7w",
       "url": "https://www.youtube.com/watch?v=ZS9sN7F6a7w",
       "thumb": "https://i.ytimg.com/vi/ZS9sN7F6a7w/maxresdefault.jpg",
@@ -115,19 +128,6 @@
       "date": "2026/10/14",
       "published": "2026-10-14T10:00:23+00:00",
       "duration": "10:28",
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "wFg77gRg8RU",
-      "url": "https://www.youtube.com/watch?v=wFg77gRg8RU",
-      "thumb": "https://i.ytimg.com/vi/wFg77gRg8RU/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/wFg77gRg8RU/hqdefault.jpg",
-      "title": "フィジカルAIのお金はどこへ流れているか｜日本・米国・中国のスタートアップ投資",
-      "tag": "フィジカルAI解説",
-      "date": "2026/10/14",
-      "published": "2026-10-13T23:45:17+00:00",
-      "duration": "14:17",
       "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
       "is_short": false
     }
