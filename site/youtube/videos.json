@@ -2,6 +2,19 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "DtyyGmMoUlU",
+      "url": "https://www.youtube.com/watch?v=DtyyGmMoUlU",
+      "thumb": "https://i.ytimg.com/vi/DtyyGmMoUlU/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/DtyyGmMoUlU/hqdefault.jpg",
+      "title": "人型ロボットに、足は要るのか｜脚・車輪・据え置き、現場はどう選ぶ",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/20",
+      "published": "2026-10-20T09:30:04+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "Tt_uWzJGzlw",
       "url": "https://www.youtube.com/watch?v=Tt_uWzJGzlw",
       "thumb": "https://i.ytimg.com/vi/Tt_uWzJGzlw/maxresdefault.jpg",
@@ -115,19 +128,6 @@
       "date": "2026/10/15",
       "published": "2026-10-15T09:30:26+00:00",
       "duration": "13:36",
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "48XTmtYkNRg",
-      "url": "https://www.youtube.com/watch?v=48XTmtYkNRg",
-      "thumb": "https://i.ytimg.com/vi/48XTmtYkNRg/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/48XTmtYkNRg/hqdefault.jpg",
-      "title": "ジャングリア沖縄の赤字89億円、AIとロボットで埋められるか勝手に試算してみた",
-      "tag": "フィジカルAI解説",
-      "date": "2026/10/14",
-      "published": "2026-10-14T10:00:23+00:00",
-      "duration": "10:28",
       "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
       "is_short": false
     }
