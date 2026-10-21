@@ -2,6 +2,19 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "jD6UXGYKxfc",
+      "url": "https://www.youtube.com/watch?v=jD6UXGYKxfc",
+      "thumb": "https://i.ytimg.com/vi/jD6UXGYKxfc/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/jD6UXGYKxfc/hqdefault.jpg",
+      "title": "夜中の警報、侵入者の正体はロボットだった｜夜にロボットを働かせる前に決めること",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/21",
+      "published": "2026-10-21T09:30:07+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "DtyyGmMoUlU",
       "url": "https://www.youtube.com/watch?v=DtyyGmMoUlU",
       "thumb": "https://i.ytimg.com/vi/DtyyGmMoUlU/maxresdefault.jpg",
@@ -115,19 +128,6 @@
       "date": "2026/10/16",
       "published": "2026-10-15T22:30:38+00:00",
       "duration": null,
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "drHOxzvrcn8",
-      "url": "https://www.youtube.com/watch?v=drHOxzvrcn8",
-      "thumb": "https://i.ytimg.com/vi/drHOxzvrcn8/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/drHOxzvrcn8/hqdefault.jpg",
-      "title": "AIエージェントにロボットのコードを書かせたら、原因を7回取り違えた",
-      "tag": "フィジカルAI解説",
-      "date": "2026/10/15",
-      "published": "2026-10-15T09:30:26+00:00",
-      "duration": "13:36",
       "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
       "is_short": false
     }
