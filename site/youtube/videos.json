@@ -2,6 +2,19 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "Dtl1IgKFy-Y",
+      "url": "https://www.youtube.com/watch?v=Dtl1IgKFy-Y",
+      "thumb": "https://i.ytimg.com/vi/Dtl1IgKFy-Y/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/Dtl1IgKFy-Y/hqdefault.jpg",
+      "title": "洗濯機を分解して組み立て直すロボットは作れるか｜ブルーカラービリオネアとフィジカルAI",
+      "tag": "フィジカルAI解説",
+      "date": "2026/10/27",
+      "published": "2026-10-27T10:30:09+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "-2u1_ccDYm0",
       "url": "https://www.youtube.com/watch?v=-2u1_ccDYm0",
       "thumb": "https://i.ytimg.com/vi/-2u1_ccDYm0/maxresdefault.jpg",
@@ -114,19 +127,6 @@
       "tag": "フィジカルAI解説",
       "date": "2026/10/18",
       "published": "2026-10-18T09:30:02+00:00",
-      "duration": null,
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "9l9lMPmMlLI",
-      "url": "https://www.youtube.com/watch?v=9l9lMPmMlLI",
-      "thumb": "https://i.ytimg.com/vi/9l9lMPmMlLI/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/9l9lMPmMlLI/hqdefault.jpg",
-      "title": "洗濯室を1時間、自分だけで。ロボットに仕事を丸ごと任せられる日は来たのか",
-      "tag": "フィジカルAI解説",
-      "date": "2026/10/17",
-      "published": "2026-10-17T09:30:27+00:00",
       "duration": null,
       "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
       "is_short": false
