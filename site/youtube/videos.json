@@ -2,6 +2,32 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "sYYM82DQclk",
+      "url": "https://www.youtube.com/watch?v=sYYM82DQclk",
+      "thumb": "https://i.ytimg.com/vi/sYYM82DQclk/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/sYYM82DQclk/hqdefault.jpg",
+      "title": "マンガのキャラを3Dにする7つの手順 Blender と Unity で作ってみた",
+      "tag": "フィジカルAI解説",
+      "date": "2026/11/13",
+      "published": "2026-11-13T13:10:46+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "ZT3AJ6aL-_k",
+      "url": "https://www.youtube.com/watch?v=ZT3AJ6aL-_k",
+      "thumb": "https://i.ytimg.com/vi/ZT3AJ6aL-_k/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/ZT3AJ6aL-_k/hqdefault.jpg",
+      "title": "ハコブくんの声と絵は、どう作っているのか ― キャラクターの声と絵を、AIで作って分かったこと",
+      "tag": "フィジカルAI解説",
+      "date": "2026/11/13",
+      "published": "2026-11-13T11:30:05+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "fCiJEERNt0k",
       "url": "https://www.youtube.com/watch?v=fCiJEERNt0k",
       "thumb": "https://i.ytimg.com/vi/fCiJEERNt0k/maxresdefault.jpg",
@@ -101,32 +127,6 @@
       "tag": "フィジカルAI解説",
       "date": "2026/11/04",
       "published": "2026-11-04T10:30:29+00:00",
-      "duration": null,
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "AR0i9t-lrck",
-      "url": "https://www.youtube.com/watch?v=AR0i9t-lrck",
-      "thumb": "https://i.ytimg.com/vi/AR0i9t-lrck/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/AR0i9t-lrck/hqdefault.jpg",
-      "title": "テスラは人型ロボットをなぜすぐ作れないのか。決算説明会から3つの手がかり",
-      "tag": "フィジカルAI解説",
-      "date": "2026/11/02",
-      "published": "2026-11-02T10:30:35+00:00",
-      "duration": null,
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "E7uC2HYB8ks",
-      "url": "https://www.youtube.com/watch?v=E7uC2HYB8ks",
-      "thumb": "https://i.ytimg.com/vi/E7uC2HYB8ks/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/E7uC2HYB8ks/hqdefault.jpg",
-      "title": "AIの間違いは、誰が見つけるのか ― 別のAIに疑わせたら、1回目で通った台本は0本だった",
-      "tag": "フィジカルAI解説",
-      "date": "2026/11/01",
-      "published": "2026-11-01T10:30:02+00:00",
       "duration": null,
       "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
       "is_short": false
