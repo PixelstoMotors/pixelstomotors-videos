@@ -2,6 +2,32 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "TOUyy-o-f0s",
+      "url": "https://www.youtube.com/watch?v=TOUyy-o-f0s",
+      "thumb": "https://i.ytimg.com/vi/TOUyy-o-f0s/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/TOUyy-o-f0s/hqdefault.jpg",
+      "title": "ロボットの頭脳は、脳のように分かれるのか｜大きなAIは大脳、専用AIは小脳",
+      "tag": "フィジカルAI解説",
+      "date": "2026/11/18",
+      "published": "2026-11-18T10:30:40+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "6ST9J8fay0Y",
+      "url": "https://www.youtube.com/watch?v=6ST9J8fay0Y",
+      "thumb": "https://i.ytimg.com/vi/6ST9J8fay0Y/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/6ST9J8fay0Y/hqdefault.jpg",
+      "title": "病院の搬送ロボット、車いすが来たらどうする？ 3Dで見る8つの場面",
+      "tag": "フィジカルAI解説",
+      "date": "2026/11/18",
+      "published": "2026-11-18T10:30:19+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "D3Ey5BTt4o4",
       "url": "https://www.youtube.com/watch?v=D3Ey5BTt4o4",
       "thumb": "https://i.ytimg.com/vi/D3Ey5BTt4o4/maxresdefault.jpg",
@@ -101,32 +127,6 @@
       "tag": "フィジカルAI解説",
       "date": "2026/11/07",
       "published": "2026-11-07T09:00:30+00:00",
-      "duration": null,
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "Z7686K3WdUU",
-      "url": "https://www.youtube.com/watch?v=Z7686K3WdUU",
-      "thumb": "https://i.ytimg.com/vi/Z7686K3WdUU/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/Z7686K3WdUU/hqdefault.jpg",
-      "title": "ボトムズのATは、いまの技術で作れるのか ― 乗れる4メートルは、もうある。量産したときの値段は、まだ分からない",
-      "tag": "フィジカルAI解説",
-      "date": "2026/11/06",
-      "published": "2026-11-06T10:15:17+00:00",
-      "duration": null,
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "j7whQnxL-g8",
-      "url": "https://www.youtube.com/watch?v=j7whQnxL-g8",
-      "thumb": "https://i.ytimg.com/vi/j7whQnxL-g8/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/j7whQnxL-g8/hqdefault.jpg",
-      "title": "猫の配膳ロボット、売上世界一はソフトバンクかPuduか",
-      "tag": "フィジカルAI解説",
-      "date": "2026/11/05",
-      "published": "2026-11-05T10:30:00+00:00",
       "duration": null,
       "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
       "is_short": false
