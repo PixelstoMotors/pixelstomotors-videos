@@ -2,6 +2,32 @@
   "channel_url": "https://www.youtube.com/@PixelstoMotors",
   "videos": [
     {
+      "id": "re-ruCU5iHo",
+      "url": "https://www.youtube.com/watch?v=re-ruCU5iHo",
+      "thumb": "https://i.ytimg.com/vi/re-ruCU5iHo/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/re-ruCU5iHo/hqdefault.jpg",
+      "title": "配膳ロボット1台だと、料理が遅くなる？ ファミレスで0〜6台を試算",
+      "tag": "フィジカルAI解説",
+      "date": "2026/11/23",
+      "published": "2026-11-23T10:30:33+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
+      "id": "a-nTk_VO2Ag",
+      "url": "https://www.youtube.com/watch?v=a-nTk_VO2Ag",
+      "thumb": "https://i.ytimg.com/vi/a-nTk_VO2Ag/maxresdefault.jpg",
+      "thumb_fallback": "https://i.ytimg.com/vi/a-nTk_VO2Ag/hqdefault.jpg",
+      "title": "走るのは人間超え、たたむのはまだ。人型ロボットの謎を3つの手がかりで解く",
+      "tag": "フィジカルAI解説",
+      "date": "2026/11/23",
+      "published": "2026-11-23T10:30:04+00:00",
+      "duration": null,
+      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
+      "is_short": false
+    },
+    {
       "id": "yn7tePEfPec",
       "url": "https://www.youtube.com/watch?v=yn7tePEfPec",
       "thumb": "https://i.ytimg.com/vi/yn7tePEfPec/maxresdefault.jpg",
@@ -101,32 +127,6 @@
       "tag": "フィジカルAI解説",
       "date": "2026/11/11",
       "published": "2026-11-11T10:30:11+00:00",
-      "duration": null,
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "MDgUDKbNdfs",
-      "url": "https://www.youtube.com/watch?v=MDgUDKbNdfs",
-      "thumb": "https://i.ytimg.com/vi/MDgUDKbNdfs/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/MDgUDKbNdfs/hqdefault.jpg",
-      "title": "攻殻機動隊を思わせる遠隔ボディは、もう作れるのか ― 中身には、人がいた",
-      "tag": "フィジカルAI解説",
-      "date": "2026/11/10",
-      "published": "2026-11-10T10:00:09+00:00",
-      "duration": null,
-      "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
-      "is_short": false
-    },
-    {
-      "id": "Ayq0zDZcaWo",
-      "url": "https://www.youtube.com/watch?v=Ayq0zDZcaWo",
-      "thumb": "https://i.ytimg.com/vi/Ayq0zDZcaWo/maxresdefault.jpg",
-      "thumb_fallback": "https://i.ytimg.com/vi/Ayq0zDZcaWo/hqdefault.jpg",
-      "title": "配膳ロボット1台だと、料理が遅くなる？ ファミレスで0〜6台を試算",
-      "tag": "フィジカルAI解説",
-      "date": "2026/11/09",
-      "published": "2026-11-09T10:30:23+00:00",
       "duration": null,
       "description": "エイイチは、本業のデザイナーをしながら、ロボティクスの研究と開発をしています。その中で分かったことと、そこから考えた見立てを、ハコブくんがお伝えします。",
       "is_short": false
